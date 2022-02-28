@@ -13,7 +13,7 @@
             <a class="navbar-brand">
                 <small>
                     <i class="icon-leaf"></i>
-                    hao家常菜
+                    1111家常菜
                 </small>
             </a><!-- /.brand -->
         </div><!-- /.navbar-header -->
