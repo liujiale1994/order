@@ -13,7 +13,7 @@
             <a class="navbar-brand">
                 <small>
                     <i class="icon-leaf"></i>
-                    5555家常菜
+                    6666家常菜
                 </small>
             </a><!-- /.brand -->
         </div><!-- /.navbar-header -->
